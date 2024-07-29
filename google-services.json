@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190443193291",
+    "project_id": "nutri-f96bf",
+    "storage_bucket": "nutri-f96bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190443193291:android:f76508ad92d31741a2ac4e",
+        "android_client_info": {
+          "package_name": "com.collanquiandres.nutri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClQ_uRo4rGgDlD8ExGaalOmhWgRVP5J3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
